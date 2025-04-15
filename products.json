@@ -1,0 +1,2522 @@
+[
+  {
+    "model": "shop.product",
+    "pk": 1,
+    "fields": {
+      "title": "Mobile Product 1",
+      "price": 53.75,
+      "description": "Description for Mobile Product 1.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 2,
+    "fields": {
+      "title": "Mobile Product 2",
+      "price": 57.5,
+      "description": "Description for Mobile Product 2.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 3,
+    "fields": {
+      "title": "Mobile Product 3",
+      "price": 61.25,
+      "description": "Description for Mobile Product 3.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 4,
+    "fields": {
+      "title": "Mobile Product 4",
+      "price": 65.0,
+      "description": "Description for Mobile Product 4.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 5,
+    "fields": {
+      "title": "Mobile Product 5",
+      "price": 68.75,
+      "description": "Description for Mobile Product 5.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 6,
+    "fields": {
+      "title": "Mobile Product 6",
+      "price": 72.5,
+      "description": "Description for Mobile Product 6.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 7,
+    "fields": {
+      "title": "Mobile Product 7",
+      "price": 76.25,
+      "description": "Description for Mobile Product 7.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 8,
+    "fields": {
+      "title": "Mobile Product 8",
+      "price": 80.0,
+      "description": "Description for Mobile Product 8.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 9,
+    "fields": {
+      "title": "Mobile Product 9",
+      "price": 83.75,
+      "description": "Description for Mobile Product 9.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 10,
+    "fields": {
+      "title": "Mobile Product 10",
+      "price": 87.5,
+      "description": "Description for Mobile Product 10.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 11,
+    "fields": {
+      "title": "Mobile Product 11",
+      "price": 91.25,
+      "description": "Description for Mobile Product 11.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 12,
+    "fields": {
+      "title": "Mobile Product 12",
+      "price": 95.0,
+      "description": "Description for Mobile Product 12.",
+      "category": "mobile",
+      "image": "product_images/mobile.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 13,
+    "fields": {
+      "title": "Electronics Product 1",
+      "price": 53.75,
+      "description": "Description for Electronics Product 1.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 14,
+    "fields": {
+      "title": "Electronics Product 2",
+      "price": 57.5,
+      "description": "Description for Electronics Product 2.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 15,
+    "fields": {
+      "title": "Electronics Product 3",
+      "price": 61.25,
+      "description": "Description for Electronics Product 3.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 16,
+    "fields": {
+      "title": "Electronics Product 4",
+      "price": 65.0,
+      "description": "Description for Electronics Product 4.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 17,
+    "fields": {
+      "title": "Electronics Product 5",
+      "price": 68.75,
+      "description": "Description for Electronics Product 5.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 18,
+    "fields": {
+      "title": "Electronics Product 6",
+      "price": 72.5,
+      "description": "Description for Electronics Product 6.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 19,
+    "fields": {
+      "title": "Electronics Product 7",
+      "price": 76.25,
+      "description": "Description for Electronics Product 7.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 20,
+    "fields": {
+      "title": "Electronics Product 8",
+      "price": 80.0,
+      "description": "Description for Electronics Product 8.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 21,
+    "fields": {
+      "title": "Electronics Product 9",
+      "price": 83.75,
+      "description": "Description for Electronics Product 9.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 22,
+    "fields": {
+      "title": "Electronics Product 10",
+      "price": 87.5,
+      "description": "Description for Electronics Product 10.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 23,
+    "fields": {
+      "title": "Electronics Product 11",
+      "price": 91.25,
+      "description": "Description for Electronics Product 11.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 24,
+    "fields": {
+      "title": "Electronics Product 12",
+      "price": 95.0,
+      "description": "Description for Electronics Product 12.",
+      "category": "electronics",
+      "image": "product_images/electronics.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 25,
+    "fields": {
+      "title": "Headphones Product 1",
+      "price": 53.75,
+      "description": "Description for Headphones Product 1.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 26,
+    "fields": {
+      "title": "Headphones Product 2",
+      "price": 57.5,
+      "description": "Description for Headphones Product 2.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 27,
+    "fields": {
+      "title": "Headphones Product 3",
+      "price": 61.25,
+      "description": "Description for Headphones Product 3.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 28,
+    "fields": {
+      "title": "Headphones Product 4",
+      "price": 65.0,
+      "description": "Description for Headphones Product 4.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 29,
+    "fields": {
+      "title": "Headphones Product 5",
+      "price": 68.75,
+      "description": "Description for Headphones Product 5.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 30,
+    "fields": {
+      "title": "Headphones Product 6",
+      "price": 72.5,
+      "description": "Description for Headphones Product 6.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 31,
+    "fields": {
+      "title": "Headphones Product 7",
+      "price": 76.25,
+      "description": "Description for Headphones Product 7.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 32,
+    "fields": {
+      "title": "Headphones Product 8",
+      "price": 80.0,
+      "description": "Description for Headphones Product 8.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 33,
+    "fields": {
+      "title": "Headphones Product 9",
+      "price": 83.75,
+      "description": "Description for Headphones Product 9.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 34,
+    "fields": {
+      "title": "Headphones Product 10",
+      "price": 87.5,
+      "description": "Description for Headphones Product 10.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 35,
+    "fields": {
+      "title": "Headphones Product 11",
+      "price": 91.25,
+      "description": "Description for Headphones Product 11.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 36,
+    "fields": {
+      "title": "Headphones Product 12",
+      "price": 95.0,
+      "description": "Description for Headphones Product 12.",
+      "category": "headphones",
+      "image": "product_images/headphones.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 37,
+    "fields": {
+      "title": "Clothings Product 1",
+      "price": 53.75,
+      "description": "Description for Clothings Product 1.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 38,
+    "fields": {
+      "title": "Clothings Product 2",
+      "price": 57.5,
+      "description": "Description for Clothings Product 2.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 39,
+    "fields": {
+      "title": "Clothings Product 3",
+      "price": 61.25,
+      "description": "Description for Clothings Product 3.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 40,
+    "fields": {
+      "title": "Clothings Product 4",
+      "price": 65.0,
+      "description": "Description for Clothings Product 4.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 41,
+    "fields": {
+      "title": "Clothings Product 5",
+      "price": 68.75,
+      "description": "Description for Clothings Product 5.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 42,
+    "fields": {
+      "title": "Clothings Product 6",
+      "price": 72.5,
+      "description": "Description for Clothings Product 6.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 43,
+    "fields": {
+      "title": "Clothings Product 7",
+      "price": 76.25,
+      "description": "Description for Clothings Product 7.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 44,
+    "fields": {
+      "title": "Clothings Product 8",
+      "price": 80.0,
+      "description": "Description for Clothings Product 8.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 45,
+    "fields": {
+      "title": "Clothings Product 9",
+      "price": 83.75,
+      "description": "Description for Clothings Product 9.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 46,
+    "fields": {
+      "title": "Clothings Product 10",
+      "price": 87.5,
+      "description": "Description for Clothings Product 10.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 47,
+    "fields": {
+      "title": "Clothings Product 11",
+      "price": 91.25,
+      "description": "Description for Clothings Product 11.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 48,
+    "fields": {
+      "title": "Clothings Product 12",
+      "price": 95.0,
+      "description": "Description for Clothings Product 12.",
+      "category": "clothings",
+      "image": "product_images/clothings.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 49,
+    "fields": {
+      "title": "Kids Wear Product 1",
+      "price": 53.75,
+      "description": "Description for Kids Wear Product 1.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 50,
+    "fields": {
+      "title": "Kids Wear Product 2",
+      "price": 57.5,
+      "description": "Description for Kids Wear Product 2.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 51,
+    "fields": {
+      "title": "Kids Wear Product 3",
+      "price": 61.25,
+      "description": "Description for Kids Wear Product 3.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 52,
+    "fields": {
+      "title": "Kids Wear Product 4",
+      "price": 65.0,
+      "description": "Description for Kids Wear Product 4.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 53,
+    "fields": {
+      "title": "Kids Wear Product 5",
+      "price": 68.75,
+      "description": "Description for Kids Wear Product 5.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 54,
+    "fields": {
+      "title": "Kids Wear Product 6",
+      "price": 72.5,
+      "description": "Description for Kids Wear Product 6.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 55,
+    "fields": {
+      "title": "Kids Wear Product 7",
+      "price": 76.25,
+      "description": "Description for Kids Wear Product 7.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 56,
+    "fields": {
+      "title": "Kids Wear Product 8",
+      "price": 80.0,
+      "description": "Description for Kids Wear Product 8.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 57,
+    "fields": {
+      "title": "Kids Wear Product 9",
+      "price": 83.75,
+      "description": "Description for Kids Wear Product 9.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 58,
+    "fields": {
+      "title": "Kids Wear Product 10",
+      "price": 87.5,
+      "description": "Description for Kids Wear Product 10.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 59,
+    "fields": {
+      "title": "Kids Wear Product 11",
+      "price": 91.25,
+      "description": "Description for Kids Wear Product 11.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 60,
+    "fields": {
+      "title": "Kids Wear Product 12",
+      "price": 95.0,
+      "description": "Description for Kids Wear Product 12.",
+      "category": "kids wear",
+      "image": "product_images/kidswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 61,
+    "fields": {
+      "title": "Home & Decor Product 1",
+      "price": 53.75,
+      "description": "Description for Home & Decor Product 1.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 62,
+    "fields": {
+      "title": "Home & Decor Product 2",
+      "price": 57.5,
+      "description": "Description for Home & Decor Product 2.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 63,
+    "fields": {
+      "title": "Home & Decor Product 3",
+      "price": 61.25,
+      "description": "Description for Home & Decor Product 3.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 64,
+    "fields": {
+      "title": "Home & Decor Product 4",
+      "price": 65.0,
+      "description": "Description for Home & Decor Product 4.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 65,
+    "fields": {
+      "title": "Home & Decor Product 5",
+      "price": 68.75,
+      "description": "Description for Home & Decor Product 5.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 66,
+    "fields": {
+      "title": "Home & Decor Product 6",
+      "price": 72.5,
+      "description": "Description for Home & Decor Product 6.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 67,
+    "fields": {
+      "title": "Home & Decor Product 7",
+      "price": 76.25,
+      "description": "Description for Home & Decor Product 7.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 68,
+    "fields": {
+      "title": "Home & Decor Product 8",
+      "price": 80.0,
+      "description": "Description for Home & Decor Product 8.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 69,
+    "fields": {
+      "title": "Home & Decor Product 9",
+      "price": 83.75,
+      "description": "Description for Home & Decor Product 9.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 70,
+    "fields": {
+      "title": "Home & Decor Product 10",
+      "price": 87.5,
+      "description": "Description for Home & Decor Product 10.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 71,
+    "fields": {
+      "title": "Home & Decor Product 11",
+      "price": 91.25,
+      "description": "Description for Home & Decor Product 11.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 72,
+    "fields": {
+      "title": "Home & Decor Product 12",
+      "price": 95.0,
+      "description": "Description for Home & Decor Product 12.",
+      "category": "home & decor",
+      "image": "product_images/homedecor.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 73,
+    "fields": {
+      "title": "Sports Wear Product 1",
+      "price": 53.75,
+      "description": "Description for Sports Wear Product 1.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 74,
+    "fields": {
+      "title": "Sports Wear Product 2",
+      "price": 57.5,
+      "description": "Description for Sports Wear Product 2.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 75,
+    "fields": {
+      "title": "Sports Wear Product 3",
+      "price": 61.25,
+      "description": "Description for Sports Wear Product 3.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 76,
+    "fields": {
+      "title": "Sports Wear Product 4",
+      "price": 65.0,
+      "description": "Description for Sports Wear Product 4.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 77,
+    "fields": {
+      "title": "Sports Wear Product 5",
+      "price": 68.75,
+      "description": "Description for Sports Wear Product 5.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 78,
+    "fields": {
+      "title": "Sports Wear Product 6",
+      "price": 72.5,
+      "description": "Description for Sports Wear Product 6.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 79,
+    "fields": {
+      "title": "Sports Wear Product 7",
+      "price": 76.25,
+      "description": "Description for Sports Wear Product 7.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 80,
+    "fields": {
+      "title": "Sports Wear Product 8",
+      "price": 80.0,
+      "description": "Description for Sports Wear Product 8.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 81,
+    "fields": {
+      "title": "Sports Wear Product 9",
+      "price": 83.75,
+      "description": "Description for Sports Wear Product 9.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 82,
+    "fields": {
+      "title": "Sports Wear Product 10",
+      "price": 87.5,
+      "description": "Description for Sports Wear Product 10.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 83,
+    "fields": {
+      "title": "Sports Wear Product 11",
+      "price": 91.25,
+      "description": "Description for Sports Wear Product 11.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 84,
+    "fields": {
+      "title": "Sports Wear Product 12",
+      "price": 95.0,
+      "description": "Description for Sports Wear Product 12.",
+      "category": "sports wear",
+      "image": "product_images/sportswear.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 85,
+    "fields": {
+      "title": "Sports Product 1",
+      "price": 53.75,
+      "description": "Description for Sports Product 1.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 86,
+    "fields": {
+      "title": "Sports Product 2",
+      "price": 57.5,
+      "description": "Description for Sports Product 2.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 87,
+    "fields": {
+      "title": "Sports Product 3",
+      "price": 61.25,
+      "description": "Description for Sports Product 3.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 88,
+    "fields": {
+      "title": "Sports Product 4",
+      "price": 65.0,
+      "description": "Description for Sports Product 4.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 89,
+    "fields": {
+      "title": "Sports Product 5",
+      "price": 68.75,
+      "description": "Description for Sports Product 5.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 90,
+    "fields": {
+      "title": "Sports Product 6",
+      "price": 72.5,
+      "description": "Description for Sports Product 6.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 91,
+    "fields": {
+      "title": "Sports Product 7",
+      "price": 76.25,
+      "description": "Description for Sports Product 7.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 92,
+    "fields": {
+      "title": "Sports Product 8",
+      "price": 80.0,
+      "description": "Description for Sports Product 8.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 93,
+    "fields": {
+      "title": "Sports Product 9",
+      "price": 83.75,
+      "description": "Description for Sports Product 9.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 94,
+    "fields": {
+      "title": "Sports Product 10",
+      "price": 87.5,
+      "description": "Description for Sports Product 10.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 95,
+    "fields": {
+      "title": "Sports Product 11",
+      "price": 91.25,
+      "description": "Description for Sports Product 11.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 96,
+    "fields": {
+      "title": "Sports Product 12",
+      "price": 95.0,
+      "description": "Description for Sports Product 12.",
+      "category": "sports",
+      "image": "product_images/sports.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 97,
+    "fields": {
+      "title": "Softwares Product 1",
+      "price": 53.75,
+      "description": "Description for Softwares Product 1.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 98,
+    "fields": {
+      "title": "Softwares Product 2",
+      "price": 57.5,
+      "description": "Description for Softwares Product 2.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 99,
+    "fields": {
+      "title": "Softwares Product 3",
+      "price": 61.25,
+      "description": "Description for Softwares Product 3.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 100,
+    "fields": {
+      "title": "Softwares Product 4",
+      "price": 65.0,
+      "description": "Description for Softwares Product 4.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 101,
+    "fields": {
+      "title": "Softwares Product 5",
+      "price": 68.75,
+      "description": "Description for Softwares Product 5.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 102,
+    "fields": {
+      "title": "Softwares Product 6",
+      "price": 72.5,
+      "description": "Description for Softwares Product 6.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 103,
+    "fields": {
+      "title": "Softwares Product 7",
+      "price": 76.25,
+      "description": "Description for Softwares Product 7.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 104,
+    "fields": {
+      "title": "Softwares Product 8",
+      "price": 80.0,
+      "description": "Description for Softwares Product 8.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 105,
+    "fields": {
+      "title": "Softwares Product 9",
+      "price": 83.75,
+      "description": "Description for Softwares Product 9.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 106,
+    "fields": {
+      "title": "Softwares Product 10",
+      "price": 87.5,
+      "description": "Description for Softwares Product 10.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 107,
+    "fields": {
+      "title": "Softwares Product 11",
+      "price": 91.25,
+      "description": "Description for Softwares Product 11.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 108,
+    "fields": {
+      "title": "Softwares Product 12",
+      "price": 95.0,
+      "description": "Description for Softwares Product 12.",
+      "category": "softwares",
+      "image": "product_images/software.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 109,
+    "fields": {
+      "title": "Laptops Product 1",
+      "price": 53.75,
+      "description": "Description for Laptops Product 1.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 110,
+    "fields": {
+      "title": "Laptops Product 2",
+      "price": 57.5,
+      "description": "Description for Laptops Product 2.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 111,
+    "fields": {
+      "title": "Laptops Product 3",
+      "price": 61.25,
+      "description": "Description for Laptops Product 3.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 112,
+    "fields": {
+      "title": "Laptops Product 4",
+      "price": 65.0,
+      "description": "Description for Laptops Product 4.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 113,
+    "fields": {
+      "title": "Laptops Product 5",
+      "price": 68.75,
+      "description": "Description for Laptops Product 5.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 114,
+    "fields": {
+      "title": "Laptops Product 6",
+      "price": 72.5,
+      "description": "Description for Laptops Product 6.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 115,
+    "fields": {
+      "title": "Laptops Product 7",
+      "price": 76.25,
+      "description": "Description for Laptops Product 7.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 116,
+    "fields": {
+      "title": "Laptops Product 8",
+      "price": 80.0,
+      "description": "Description for Laptops Product 8.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 117,
+    "fields": {
+      "title": "Laptops Product 9",
+      "price": 83.75,
+      "description": "Description for Laptops Product 9.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 118,
+    "fields": {
+      "title": "Laptops Product 10",
+      "price": 87.5,
+      "description": "Description for Laptops Product 10.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 119,
+    "fields": {
+      "title": "Laptops Product 11",
+      "price": 91.25,
+      "description": "Description for Laptops Product 11.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 120,
+    "fields": {
+      "title": "Laptops Product 12",
+      "price": 95.0,
+      "description": "Description for Laptops Product 12.",
+      "category": "laptops",
+      "image": "product_images/laptop.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 121,
+    "fields": {
+      "title": "Musical Instruments Product 1",
+      "price": 53.75,
+      "description": "Description for Musical Instruments Product 1.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 122,
+    "fields": {
+      "title": "Musical Instruments Product 2",
+      "price": 57.5,
+      "description": "Description for Musical Instruments Product 2.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 123,
+    "fields": {
+      "title": "Musical Instruments Product 3",
+      "price": 61.25,
+      "description": "Description for Musical Instruments Product 3.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 124,
+    "fields": {
+      "title": "Musical Instruments Product 4",
+      "price": 65.0,
+      "description": "Description for Musical Instruments Product 4.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 125,
+    "fields": {
+      "title": "Musical Instruments Product 5",
+      "price": 68.75,
+      "description": "Description for Musical Instruments Product 5.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 126,
+    "fields": {
+      "title": "Musical Instruments Product 6",
+      "price": 72.5,
+      "description": "Description for Musical Instruments Product 6.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 127,
+    "fields": {
+      "title": "Musical Instruments Product 7",
+      "price": 76.25,
+      "description": "Description for Musical Instruments Product 7.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 128,
+    "fields": {
+      "title": "Musical Instruments Product 8",
+      "price": 80.0,
+      "description": "Description for Musical Instruments Product 8.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 129,
+    "fields": {
+      "title": "Musical Instruments Product 9",
+      "price": 83.75,
+      "description": "Description for Musical Instruments Product 9.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 130,
+    "fields": {
+      "title": "Musical Instruments Product 10",
+      "price": 87.5,
+      "description": "Description for Musical Instruments Product 10.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 131,
+    "fields": {
+      "title": "Musical Instruments Product 11",
+      "price": 91.25,
+      "description": "Description for Musical Instruments Product 11.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 132,
+    "fields": {
+      "title": "Musical Instruments Product 12",
+      "price": 95.0,
+      "description": "Description for Musical Instruments Product 12.",
+      "category": "musical instruments",
+      "image": "product_images/instrument.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 133,
+    "fields": {
+      "title": "Toys Product 1",
+      "price": 53.75,
+      "description": "Description for Toys Product 1.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 134,
+    "fields": {
+      "title": "Toys Product 2",
+      "price": 57.5,
+      "description": "Description for Toys Product 2.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 135,
+    "fields": {
+      "title": "Toys Product 3",
+      "price": 61.25,
+      "description": "Description for Toys Product 3.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 136,
+    "fields": {
+      "title": "Toys Product 4",
+      "price": 65.0,
+      "description": "Description for Toys Product 4.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 137,
+    "fields": {
+      "title": "Toys Product 5",
+      "price": 68.75,
+      "description": "Description for Toys Product 5.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 138,
+    "fields": {
+      "title": "Toys Product 6",
+      "price": 72.5,
+      "description": "Description for Toys Product 6.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 139,
+    "fields": {
+      "title": "Toys Product 7",
+      "price": 76.25,
+      "description": "Description for Toys Product 7.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 140,
+    "fields": {
+      "title": "Toys Product 8",
+      "price": 80.0,
+      "description": "Description for Toys Product 8.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 141,
+    "fields": {
+      "title": "Toys Product 9",
+      "price": 83.75,
+      "description": "Description for Toys Product 9.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 142,
+    "fields": {
+      "title": "Toys Product 10",
+      "price": 87.5,
+      "description": "Description for Toys Product 10.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 143,
+    "fields": {
+      "title": "Toys Product 11",
+      "price": 91.25,
+      "description": "Description for Toys Product 11.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 144,
+    "fields": {
+      "title": "Toys Product 12",
+      "price": 95.0,
+      "description": "Description for Toys Product 12.",
+      "category": "toys",
+      "image": "product_images/toy.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 145,
+    "fields": {
+      "title": "Bags Product 1",
+      "price": 53.75,
+      "description": "Description for Bags Product 1.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 146,
+    "fields": {
+      "title": "Bags Product 2",
+      "price": 57.5,
+      "description": "Description for Bags Product 2.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 147,
+    "fields": {
+      "title": "Bags Product 3",
+      "price": 61.25,
+      "description": "Description for Bags Product 3.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 148,
+    "fields": {
+      "title": "Bags Product 4",
+      "price": 65.0,
+      "description": "Description for Bags Product 4.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 149,
+    "fields": {
+      "title": "Bags Product 5",
+      "price": 68.75,
+      "description": "Description for Bags Product 5.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 150,
+    "fields": {
+      "title": "Bags Product 6",
+      "price": 72.5,
+      "description": "Description for Bags Product 6.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 151,
+    "fields": {
+      "title": "Bags Product 7",
+      "price": 76.25,
+      "description": "Description for Bags Product 7.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 152,
+    "fields": {
+      "title": "Bags Product 8",
+      "price": 80.0,
+      "description": "Description for Bags Product 8.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 153,
+    "fields": {
+      "title": "Bags Product 9",
+      "price": 83.75,
+      "description": "Description for Bags Product 9.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 154,
+    "fields": {
+      "title": "Bags Product 10",
+      "price": 87.5,
+      "description": "Description for Bags Product 10.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 155,
+    "fields": {
+      "title": "Bags Product 11",
+      "price": 91.25,
+      "description": "Description for Bags Product 11.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 156,
+    "fields": {
+      "title": "Bags Product 12",
+      "price": 95.0,
+      "description": "Description for Bags Product 12.",
+      "category": "bags",
+      "image": "product_images/bag.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 157,
+    "fields": {
+      "title": "Beauty Products Product 1",
+      "price": 53.75,
+      "description": "Description for Beauty Products Product 1.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 158,
+    "fields": {
+      "title": "Beauty Products Product 2",
+      "price": 57.5,
+      "description": "Description for Beauty Products Product 2.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 159,
+    "fields": {
+      "title": "Beauty Products Product 3",
+      "price": 61.25,
+      "description": "Description for Beauty Products Product 3.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 160,
+    "fields": {
+      "title": "Beauty Products Product 4",
+      "price": 65.0,
+      "description": "Description for Beauty Products Product 4.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 161,
+    "fields": {
+      "title": "Beauty Products Product 5",
+      "price": 68.75,
+      "description": "Description for Beauty Products Product 5.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 162,
+    "fields": {
+      "title": "Beauty Products Product 6",
+      "price": 72.5,
+      "description": "Description for Beauty Products Product 6.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 163,
+    "fields": {
+      "title": "Beauty Products Product 7",
+      "price": 76.25,
+      "description": "Description for Beauty Products Product 7.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 164,
+    "fields": {
+      "title": "Beauty Products Product 8",
+      "price": 80.0,
+      "description": "Description for Beauty Products Product 8.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 165,
+    "fields": {
+      "title": "Beauty Products Product 9",
+      "price": 83.75,
+      "description": "Description for Beauty Products Product 9.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 166,
+    "fields": {
+      "title": "Beauty Products Product 10",
+      "price": 87.5,
+      "description": "Description for Beauty Products Product 10.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 167,
+    "fields": {
+      "title": "Beauty Products Product 11",
+      "price": 91.25,
+      "description": "Description for Beauty Products Product 11.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 168,
+    "fields": {
+      "title": "Beauty Products Product 12",
+      "price": 95.0,
+      "description": "Description for Beauty Products Product 12.",
+      "category": "beauty products",
+      "image": "product_images/beauty.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 169,
+    "fields": {
+      "title": "Furniture Product 1",
+      "price": 53.75,
+      "description": "Description for Furniture Product 1.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 170,
+    "fields": {
+      "title": "Furniture Product 2",
+      "price": 57.5,
+      "description": "Description for Furniture Product 2.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 171,
+    "fields": {
+      "title": "Furniture Product 3",
+      "price": 61.25,
+      "description": "Description for Furniture Product 3.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 172,
+    "fields": {
+      "title": "Furniture Product 4",
+      "price": 65.0,
+      "description": "Description for Furniture Product 4.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 173,
+    "fields": {
+      "title": "Furniture Product 5",
+      "price": 68.75,
+      "description": "Description for Furniture Product 5.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 174,
+    "fields": {
+      "title": "Furniture Product 6",
+      "price": 72.5,
+      "description": "Description for Furniture Product 6.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 175,
+    "fields": {
+      "title": "Furniture Product 7",
+      "price": 76.25,
+      "description": "Description for Furniture Product 7.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 176,
+    "fields": {
+      "title": "Furniture Product 8",
+      "price": 80.0,
+      "description": "Description for Furniture Product 8.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 177,
+    "fields": {
+      "title": "Furniture Product 9",
+      "price": 83.75,
+      "description": "Description for Furniture Product 9.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 178,
+    "fields": {
+      "title": "Furniture Product 10",
+      "price": 87.5,
+      "description": "Description for Furniture Product 10.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 179,
+    "fields": {
+      "title": "Furniture Product 11",
+      "price": 91.25,
+      "description": "Description for Furniture Product 11.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": false,
+      "date_of_sale": null
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 180,
+    "fields": {
+      "title": "Furniture Product 12",
+      "price": 95.0,
+      "description": "Description for Furniture Product 12.",
+      "category": "furniture",
+      "image": "product_images/furniture.jpg",
+      "sold": false,
+      "is_sale": true,
+      "date_of_sale": null
+    }
+  }
+]
