@@ -113,9 +113,7 @@ Authorization: Bearer <your_token_here>
 
 ## 🧾 API Documentation
 
-🔗 Link to full API documentation:
-Coming soon...
-(You can integrate Swagger or Redoc later)
+🔗 Link to full API documentation: "https://documenter.getpostman.com/view/39033838/2sB2cbayXV"
 
 ## 📤 Image Uploads
 
