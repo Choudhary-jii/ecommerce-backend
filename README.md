@@ -62,37 +62,32 @@ Follow these steps to set up the backend on your local machine:
 
 2. Set Up a Virtual Environment
 - It’s recommended to use a virtual environment to manage dependencies.
-
-Create virtual environment : python -m venv env
-
-Activate virtual environment : 
-
-- On Windows : env\Scripts\activate
-
- - On macOS/Linux : source env/bin/activate
+   - Create virtual environment : python -m venv env
+   - Activate virtual environment : 
+      - On Windows : env\Scripts\activate
+      - On macOS/Linux : source env/bin/activate
 
 3. Install Required Python Packages
    
 - Install all dependencies : pip install -r requirements.txt
 
 - If requirements.txt is not available, manually install the required packages:
-
-1. pip install django
-2. pip install djangorestframework
-3. pip install djangorestframework-simplejwt
-4. pip install pyjwt
-5. pip install requests
-6. pip install pillow
-7. pip install python-dotenv
-8. pip install django-cors-headers
+   - pip install django
+   - pip install djangorestframework
+   - pip install djangorestframework-simplejwt
+   - pip install pyjwt
+   - pip install requests
+   - pip install pillow
+   - pip install python-dotenv
+   - pip install django-cors-headers
 
 4. Set Up Environment Variables
- **Create a .env file in the project root directory and add the following:**
-
-- SECRET_KEY=your-django-secret-key
-- DEBUG=True
-- ALLOWED_HOSTS=127.0.0.1,localhost
-- TWO_FACTOR_API_KEY=your-2factor-api-key
+   
+  - Create a .env file in the project root directory and add the following:
+     - SECRET_KEY=your-django-secret-key
+     - DEBUG=True
+     - ALLOWED_HOSTS=127.0.0.1,localhost
+     - TWO_FACTOR_API_KEY=your-2factor-api-key
 
 ℹ️ Notes:
 
@@ -102,9 +97,8 @@ Activate virtual environment :
 5. Run Database Migrations
    
 - Apply migrations to set up your database:
-
-1. python manage.py makemigrations
-2. python manage.py migrate
+  - python manage.py makemigrations
+  - python manage.py migrate
 
 6. Create a Superuser (Optional)
    
@@ -113,9 +107,8 @@ Activate virtual environment :
 7. Run the Development Server
    
 - Start the Django development server : python manage.py runserver
-
-Visit your backend at:
-👉 http://127.0.0.1:8000/
+   - Visit your backend at:
+   - 👉 http://127.0.0.1:8000/
 
 ## 📢 Notes
 
