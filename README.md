@@ -57,7 +57,8 @@ Hosted at:
 Follow these steps to set up the backend on your local machine:
 
 1. Clone the Repository
-- git clone https://github.com/your-username/your-repo-name.git
+- git clone https://github.com/Choudhary-jii/ecommerce-backend
+.git
 - cd your-repo-name
 
 2. Set Up a Virtual Environment
